@@ -143,7 +143,7 @@ public class MainWindow extends JFrame {
         helpMenu = new JMenu();
         aboutMenuItem = new JMenuItem();
         this.setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        this.setTitle("SOM - Self-Organizing Maps *1982 *Tuevo Kohonen");
+        this.setTitle("SOM - Self-Organizing Maps *1982 *Teuvo Kohonen");
 
         fileMenu.setText("File");
 

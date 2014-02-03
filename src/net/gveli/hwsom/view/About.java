@@ -28,7 +28,7 @@ import javax.swing.JLabel;
  *
  * About dialog of the SOM HW application
  *
- *  *1982 *Tuevo Kohonen
+ *  *1982 *Teuvo Kohonen
  */
 public class About extends JDialog {
 
@@ -65,7 +65,7 @@ public class About extends JDialog {
         copyrightLabel.setHorizontalAlignment(JLabel.CENTER);
         copyrightLabel.setBackground(javax.swing.UIManager.getDefaults().getColor("Label.background"));
         copyrightLabel.setVerticalAlignment(JLabel.CENTER);
-        copyrightLabel.setText("<html><body  align=\"center\"> <H1>SOM</H1><p>Self-Organizing Maps</p> <H4>(Tuevo Kohonen - 1982)</H4><br /><br /> Copyright  &copy; 2013  Temur Vibliani.</body></html>");
+        copyrightLabel.setText("<html><body  align=\"center\"> <H1>SOM</H1><p>Self-Organizing Maps</p> <H4>(Teuvo Kohonen - 1982)</H4><br /><br /> Copyright  &copy; 2013  Temur Vibliani.</body></html>");
         copyrightLabel.setBorder(null);
         copyrightLabel.setFocusable(false);
         gridBagConstraints = new java.awt.GridBagConstraints();
